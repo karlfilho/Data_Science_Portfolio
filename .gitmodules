@@ -1,0 +1,3 @@
+[submodule "Airbnb-Price-Prediction"]
+	path = Airbnb-Price-Prediction
+	url = https://github.com/karlfilho/Airbnb-Price-Prediction.git
